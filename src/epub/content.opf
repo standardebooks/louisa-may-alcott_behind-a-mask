@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Behind a Mask, or a Woman’s Power</dc:title>
 		<meta property="file-as" refines="#fulltitle">Behind a Mask, or a Woman’s Power</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Governesses -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Sex role -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Man-woman relationships -- Fiction</dc:subject>
