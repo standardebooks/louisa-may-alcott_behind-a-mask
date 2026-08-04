@@ -50,7 +50,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008113724</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A deceitful governess schemes to control the love and wealth of a Victorian-era family.</dc:abstract>
+		<meta property="schema:abstract">A deceitful governess schemes to control the love and wealth of a Victorian-era family.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Behind a Mask&lt;/i&gt; is a short novel published by &lt;a href="https://standardebooks.org/ebooks/louisa-may-alcott"&gt;Louisa May Alcott&lt;/a&gt;, writing as A. M. Barnard, in 1866. It was largely forgotten until 1975 when it was republished by Madeleine B. Stern, causing it to become an important part of the critical study of Alcott’s body of work.&lt;/p&gt;
 			&lt;p&gt;Jean Muir is a governess recently employed by the Coventry family to educate their young daughter, Bella. Muir is charming and solicitous, but everything is not as it seems—it’s quickly revealed that she’s a actually an older actress, working under more duplicitous motives.&lt;/p&gt;
